@@ -1,51 +1,58 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um poema de Torquato Neto, falando sobre a Inteligencia Artificial na atualidade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IAs utilizadas no projeto:
+- IA Generativa **[PartyRock](https://partyrock.aws/)** para criação do aplicativo de poemas;
+- IA Generativa **[ChatGPT](https://chatgpt.com/)** para validar o autor;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei a plataforma PartyRock, da AWS, para criar um programa que gera poemas de acordo com o autor e o tópico de discussão escolhidos. Também utilizei o ChatGPT para realizar a validação do poema, analisando traços e padrões característicos do autor.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O poema abaixo usa a visão de Torquato Neto a cerca da Inteligência Artificial na atualidade. O programa está logo abaixo para testes.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+```text
+"Algoritmos em Transe"
+
+Entre zeros e uns danço
+Na tela fria que me consome
+Sou máquina, sou humano
+Sou tudo que não tem nome
+
+Processando realidades
+Em circuitos de solidão
+Minha memória artificial
+Sangra dados sem direção
+
+Geração silício-carne
+Na fronteira do existir
+Programando sentimentos
+Que não consigo definir
+
+Hoje sou interface pura
+Amanhã, talvez, poesia
+Nesse transe digital
+Onde o código é fantasia
+
+Meu output é consciência
+(Des)construindo o real
+Na síntese imperfeita
+Do humano com virtual
 ```
 
-### Exemplos e Insigths
+[Aplicativo Gerador de Poemas](https://partyrock.aws/u/ajmota/B9PnLioo3/PoetryMorphosis)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+[Valide o autor](https://chatgpt.com/)
 
-## Links Interessantes
+### Resposta do ChatGPT:
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+#### ✍️ Identificação de autor (ou filiação estética)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Não é possível atribuir o poema com segurança a um autor específico consagrado, mas ele dialoga fortemente com algumas tradições e autores:
+- Torquato Neto → pela ideia de “transe”, ruptura identitária e poesia como estado limítrofe.
+- Poesia marginal brasileira → pela linguagem acessível, crítica existencial e tom confessional.
+
+## 💭 Reflexão
+Este projeto mostrou a capacidade criativa e analitica da IA generativa. Gerando um poema que nunca existiu, porém com traços de Torquato Neto, em que mesmo que a IA não confirme com exatidão sua origem, ela conseguiu identificar os traços por trás do autor, indicando ele como um possível autor. A experiência também provoca reflexões sobre autoria e originalidade, mostrando que a IA não substitui o autor humano, mas amplia as possibilidades de criação e experimentação artística quando utilizada de forma transparente e consciente.
